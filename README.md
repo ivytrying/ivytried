@@ -1,1 +1,1 @@
-code for my main site uwu.elihas.hair
+code for my main site uwu.ieat.hair
