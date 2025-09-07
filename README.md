@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&size=16&pause=1000&color=278DF7&multiline=true&width=300&lines=my+main+website+%3A3;+++++++++++++++++++++++++++++++++++++++++++++++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&size=16&duration=3000&pause=500&color=F713E5&multiline=true&width=300&lines=my+main+website+%3A3;ignore+the+spaghetti+code+%3E.%3C+)](https://git.io/typing-svg)
